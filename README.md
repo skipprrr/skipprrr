@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @skipprrr
-- 🌱 I’m currently learning ... PHP
+- 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... https://www.instagram.com/skipprrr/
